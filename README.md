@@ -1,7 +1,7 @@
 # nitish-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nitish%20Mishra&fontSize=60&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-  <h3>🚀 Electronics Engineer | MBA | Full Stack Developer</h3>
+  <h3>🚀 Electronics Engineer | MBA |  Graduate Engineer Trainee</h3>
   
   <p>
     <i>"Innovating at the intersection of Hardware & Software."</i>
